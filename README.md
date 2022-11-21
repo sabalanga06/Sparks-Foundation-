@@ -15,12 +15,9 @@
 ## First Time Installation
 - Clone the Repository.
 - Make sure you have installed XAMP on your computer.
-- Copy this folder(Sparks-Foundation) to XAMP installation Directory and then inside htdocs folder.
+- Copy this folder(Sparks-Foundation) to wAMP installation Directory 
 
-```
-For Example
 
-```
 - Open Wamp Control Panel. 
 - Open browser type the following into search bar.
 ```
