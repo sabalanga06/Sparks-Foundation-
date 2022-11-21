@@ -9,13 +9,12 @@
 ## Description
 - This a Internship project by Sparks Foundation.
 - This project is built on HTML/CSS, Bootstrap, PHP and MySQL.
-- Details of Customers are maintained as `Name`, `Email`, `Amount` are fields.
-- Transaction is done through PDO, If some Error occured while Transaction changes made to table is Rollback(Reverted).  
+- Details of Customers are maintained as `Name`, `Email`, `Amount` are fields. 
 
 ## First Time Installation
 - Clone the Repository.
-- Make sure you have installed XAMP on your computer.
-- Copy this folder(Sparks-Foundation) to wAMP installation Directory 
+- Make sure you have installed WAMP on your computer.
+- Copy this folder(Sparks-Foundation) to WAMP installation Directory 
 
 
 - Open Wamp Control Panel. 
